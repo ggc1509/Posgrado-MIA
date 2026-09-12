@@ -1,0 +1,21 @@
+REPORTE AUTOMÁTICO DE HALLAZGOS - DATASET IRIS
+==================================================
+
+1. El dataset contiene 150 muestras y 5 columnas (4 numéricas + 1 categórica).
+
+2. Distribución de clases:
+   El dataset está balanceado, con 50 muestras por cada una de las 3 especies.
+
+3. Especie con pétalos más grandes (en promedio):
+   virginica (5.55 cm de longitud promedio)
+
+4. Especie con pétalos más pequeños (en promedio):
+   setosa (1.46 cm de longitud promedio)
+
+5. Especie con sépalos más anchos (en promedio):
+   setosa (3.43 cm de ancho promedio)
+
+6. Conclusión:
+   Las medidas del pétalo (longitud y ancho) muestran mayor variación entre
+   especies que las medidas del sépalo, lo que sugiere que son las variables
+   más útiles para distinguir entre especies mediante modelos de clasificación.
