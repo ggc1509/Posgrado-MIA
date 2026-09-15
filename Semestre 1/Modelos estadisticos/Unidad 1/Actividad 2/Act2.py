@@ -1,4 +1,5 @@
 import pandas as pd
+
 # Crear DataFrame vacío con la estructura del Weather Dataset
 weather_data = {
  'outlook': ['sunny', 'sunny', 'overcast', 'rainy', 'rainy'],
@@ -7,5 +8,6 @@ weather_data = {
  'windy': [False, True, False, False, False],
  'play': ['no', 'no', 'yes', 'yes', 'yes']
 }
+
 df_weather = pd.DataFrame(weather_data)
 print(df_weather.head())
