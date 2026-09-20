@@ -1,4 +1,4 @@
-# Act3Tarea2.py
+# Act4Tarea2.py
 # Maestria en inteligencia artificial
 # TecNM campus Tijuana
 # Aprendizaje Automático
