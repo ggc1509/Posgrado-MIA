@@ -5,7 +5,7 @@
 # Germán Godínez Cardoza
 # Código Actividad 2: 
 # Implementar un perceptrón para resolver XOR.
-# Claude de Anthropic con modelo Sonnet 5
+# Código desarrollado usando Claude de Anthropic con modelo Sonnet 5
 
 import numpy as np
 
