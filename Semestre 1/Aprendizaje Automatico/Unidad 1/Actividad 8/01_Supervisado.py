@@ -1,9 +1,12 @@
-"""
-PROGRAMA 1 - APRENDIZAJE SUPERVISADO
-Dataset: Wine (178 muestras, 13 variables químicas, 3 clases)
-Modelos: Random Forest (principal) + Regresión Logística (referencia)
-Salida : gráficas en ./graficas_supervisado
-"""
+# 01_Supervisado.py
+# Maestria en inteligencia artificial
+# TecNM campus Tijuana
+# Aprendizaje Automático
+# Germán Godínez Cardoza
+# Código Actividad 1: 
+# Entrenar un modelo supervisado simple (clasificación).
+# Código desarrollado usando Claude de Anthropic con modelo Sonnet 5
+
 import os
 import numpy as np
 import pandas as pd
