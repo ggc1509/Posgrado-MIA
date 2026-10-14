@@ -1,0 +1,14 @@
+Entrenamiento: (105, 4) (105,)
+Prueba: (45, 4) (45,)
+Clases en entrenamiento: [35 35 35]
+Clases en prueba: [15 15 15]
+Forma de y_proba: (45, 3)
+Exactitud: 0.9111111111111111
+Probabilidades (primeras 5):
+ [[0.    0.    1.   ]
+ [0.    0.996 0.004]
+ [0.    0.847 0.153]
+ [0.    0.668 0.332]
+ [0.    0.104 0.896]]
+Clase predicha: [2 1 1 1 2]
+Clase real:     [2 1 2 1 2]
