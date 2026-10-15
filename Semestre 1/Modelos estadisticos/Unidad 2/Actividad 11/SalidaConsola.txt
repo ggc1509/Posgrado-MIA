@@ -1,0 +1,32 @@
+Normal (varía media)
+  parámetro=0: media=-0.010, desv=1.006
+  parámetro=2: media=2.020, desv=1.003
+  parámetro=5: media=5.014, desv=1.003
+
+Normal (varía desviación)
+  parámetro=0.5: media=-0.003, desv=0.503
+  parámetro=1: media=-0.020, desv=0.995
+  parámetro=2: media=-0.009, desv=2.000
+
+Exponencial (varía escala)
+  parámetro=0.5: media=0.500, desv=0.501
+  parámetro=1: media=1.010, desv=1.007
+  parámetro=2: media=1.992, desv=2.034
+
+Gamma (varía forma k)
+  parámetro=1: media=1.022, desv=1.021
+  parámetro=2: media=2.009, desv=1.447
+  parámetro=5: media=5.002, desv=2.268
+    Distribución  Parámetro  Media  Desv. est.  Sesgo      CV  Media teórica  Desv. teórica
+Normal (varía μ)        μ=0 -0.010       1.006 -0.003  98.175            0.0          1.000
+Normal (varía μ)        μ=2  2.020       1.003  0.012   0.496            2.0          1.000
+Normal (varía μ)        μ=5  5.014       1.003  0.010   0.200            5.0          1.000
+Normal (varía σ)      σ=0.5 -0.003       0.503  0.018 146.430            0.0          0.500
+Normal (varía σ)        σ=1 -0.020       0.995 -0.020  48.983            0.0          1.000
+Normal (varía σ)        σ=2 -0.009       2.000  0.026 217.414            0.0          2.000
+     Exponencial escala=0.5  0.500       0.501  2.109   1.002            0.5          0.500
+     Exponencial   escala=1  1.010       1.007  1.973   0.997            1.0          1.000
+     Exponencial   escala=2  1.992       2.034  2.058   1.021            2.0          2.000
+           Gamma        k=1  1.022       1.021  2.000   0.999            1.0          1.000
+           Gamma        k=2  2.009       1.447  1.467   0.720            2.0          1.414
+           Gamma        k=5  5.002       2.268  0.902   0.453            5.0          2.236
